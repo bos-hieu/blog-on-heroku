@@ -185,3 +185,5 @@ deployment process provided by _this repository_, then [open an issue here](http
 ## License
 
 Released under the [MIT license](./LICENSE), just like the Ghost project itself.
+
+# Update for deploy to heroku
